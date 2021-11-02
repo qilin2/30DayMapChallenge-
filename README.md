@@ -1,5 +1,6 @@
-# 30DayMapChallenge-
+# 30DayMapChallenge
 
-RStudio November 2021 30 DayChallenge
+November 2021
+
 
 ![image.png](https://raw.githubusercontent.com/qilin2/30DayMapChallenge/master/images/readme.png)
