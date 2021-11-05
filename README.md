@@ -23,3 +23,21 @@
 
 ![day2.png](/day2/day2_lines.png)
 
+<p align = 'center'>
+   Day 3
+   </p>
+  
+  ![day3.png](/day3/day3_polygon_v1.png)
+
+<p align = 'center'>
+   Day 4
+   </p>
+   
+   ![day4.jpg](/day4/day4_hexagons.jpg)
+   
+<p align = 'center'>
+   Day 5
+   </p>
+   
+   ![day5.png](/day5/day5_osm.png)
+  
